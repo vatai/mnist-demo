@@ -1,0 +1,4 @@
+#+title: MNIST-Demo
+
+A simple MNIST implementation with various degrees of bells and
+whistles to play around with.
